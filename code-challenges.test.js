@@ -120,3 +120,5 @@ const noDuplicates = (...arrays) => { // define function, use spread operator to
 const dataTypesArray1 = ["array", "object", "number", "string", "Boolean"]
 
 const resultArray1 = noDuplicates(dataTypesArray1) //const resultArray1 is being declared and the function (noDuplicates) is being called, with dataTypesArray1 being passed as an argument
+
+//
